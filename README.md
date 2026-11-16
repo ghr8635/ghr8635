@@ -24,4 +24,4 @@ An agent that schedules EV and home-battery charging under German dynamic electr
 
 ### 📫 Get in touch
 
-[LinkedIn](https://www.linkedin.com/in/ghr6538) · hussainbingr@outlook.com · German (Fluent), English (fluent)
+[LinkedIn](https://www.linkedin.com/in/ghr6538) · hussainbingr@outlook.com · German (Fluent), English (Fluent)
